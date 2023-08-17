@@ -34,6 +34,8 @@ android {
         enabled true
     }
 }
+//Volley es una biblioteca HTTP que facilita y agiliza el uso de redes en apps para Android. Volley está disponible en GitHub.
+// Volley ofrece los siguientes beneficios: Programación automática de solicitudes de red.
 
 dependencies {
 //  La manera mas sencilla de por la que incorporamos volley a nuestro proyecto es con la siguiente dependencia.
